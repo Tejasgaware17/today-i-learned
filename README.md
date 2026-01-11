@@ -21,7 +21,7 @@ This repository serves as my living documentation of technical growth. In the fa
 
 ### 🏗️ Architecture & System Design
 
-* *Pending initial entry...*
+* [Defensive Programming: Safeguarding Against the Unexpected](./Architecture/defensive-programming.md) - *Patterns for building resilient software.*
 
 ### ⚡ Frontend & Backend
 
