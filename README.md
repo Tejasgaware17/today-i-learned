@@ -5,13 +5,13 @@
 [![Focus](https://img.shields.io/badge/Focus-Fullstack_Development-blueviolet?style=for-the-badge)](https://github.com/tejas-gaware)
 [![Cloud](https://img.shields.io/badge/Cloud_Computing-0078D4?style=for-the-badge&logo=icloud)](https://github.com/tejas-gaware)
 
-## 🎯 Purpose
+## Purpose
 
 This repository serves as my living documentation of technical growth. In the fast-evolving IT landscape, documenting my day-to-day learnings is my strategy for staying ahead, ensuring high-quality code, and maintaining a growth mindset.
 
 ---
 
-## 📚 Categories
+## Categories
 
 * [Git: today-i-learned/ Workflow](./GUIDE.md) - *Setting up the foundation.*
 
@@ -23,9 +23,13 @@ This repository serves as my living documentation of technical growth. In the fa
 
 * [Defensive Programming: Safeguarding Against the Unexpected](./Architecture/defensive-programming.md) - *Patterns for building resilient software.*
 
-### ⚡ Frontend & Backend
+### ⚡ Frontend
 
-* *Pending initial entry...*
+
+
+### 🗄️ Backend
+
+* [The Request-Response Lifecycle](./Backend-dev/request-response-cycle.md) - Understanding the flow of Web.
 
 ### 🤖 AI & Emerging Tech
 
