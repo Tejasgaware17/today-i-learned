@@ -10,7 +10,7 @@ Understanding the journey of a request is the foundation of debugging and system
 
 ### 1. **The Trigger (Frontend)**
 
-A user action triggers an `HTTP Request`. **Actions like:**
+A user action triggers an `HTTP Request`. Actions like:
 
 - Entering a URL
 - Clicking a link
@@ -54,7 +54,7 @@ GET /users HTTP/1.1
 
 - **Body:** The actual data being sent (for POST/PUT). Body is optional and should contain data like `JSON`, `form data`, etc.
 
-### 5. **Middleware (The Gatekeeper)**
+### 5. **Middleware**
 
 Before reaching the logic, the request often passes through middleware on the backend for **logging**, **authentication**, or **validation.**
 
@@ -102,7 +102,7 @@ For effective debugging we must understand these.
 | **2xx (Success)**      | Everything went well | `200 OK`, `201 Created`                                |
 | **3xx (Redirection)**  | The resource moved   | `301 Moved Permanently`                                |
 | **4xx (Client Error)** | You made a mistake   | `400 Bad Request`, `401 Unauthorized`, `404 Not Found` |
-| **5xx (Server Error)** | The server\* crashed | `500 Internal Server Error`, `503 Service Unavailable` |
+| **5xx (Server Error)** | The server crashed   | `500 Internal Server Error`, `503 Service Unavailable` |
 
 ---
 

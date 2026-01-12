@@ -25,7 +25,7 @@ This repository serves as my living documentation of technical growth. In the fa
 
 ### ⚡ Frontend
 
-
+* *Pending initial entry...*
 
 ### 🗄️ Backend
 
